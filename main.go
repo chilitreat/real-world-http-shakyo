@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Println("main")
+	var buffer bytes.Buffer
 }
